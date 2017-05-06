@@ -9,7 +9,7 @@
   <h1 style="text-align:center;">Noseque</h1>
   <table>
    <?php
-  $servername = "us-cdbr-iron-east-03.cleardb.net;
+  $servername = "us-cdbr-iron-east-03.cleardb.net";
   $username = "b70bfec21d58a0";
   $password = "f51af21d";
   $dbname = "ad_933d983b3cfac5e";
