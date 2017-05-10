@@ -8,7 +8,7 @@
  <body>
  
  <center> 
-<img src="images/imagenuno.png " WIDTH=800 HEIGHT=300 > 
+<img src="images/imagenuno.png "> 
 </center> 
 
 
