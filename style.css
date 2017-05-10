@@ -63,7 +63,7 @@ table {
 	table-layout: fixed;
 	margin: 0 auto;
 	word-wrap: break-word;
-	padding-top:10%;
+	/*padding-top:10%;*/
 }
 
 th {
