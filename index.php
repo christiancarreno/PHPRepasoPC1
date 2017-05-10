@@ -8,7 +8,7 @@
  <body>
  
  <center> 
-<img src="images/imagen20.jpg " WIDTH=800 HEIGHT=300 > 
+<img src="images/imagenuno.png " WIDTH=800 HEIGHT=300 > 
 </center> 
 
 
@@ -106,7 +106,7 @@
 
 
 <center> 
-<img src="images/imagen10.jpg" border=0> 
+<img src="images/imagendos.png" border=0> 
 </center> 
  </body>
  </html>
